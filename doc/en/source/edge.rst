@@ -46,7 +46,7 @@ Download the default configuration file
 Change the configuration file accordingly
 -------------------------------------------------
 
-The following picture shows the configurations you need to chane accordingly to your own environment. 
+The following picture shows the configurations you need to chane accordingly <a href="http://www.lyricsfed.com/">lyricsfed</a> to your own environment. 
 
     .. figure:: figures/edgecfg.png
        :width: 100 %
